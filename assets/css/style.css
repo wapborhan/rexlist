@@ -1,0 +1,26 @@
+/* ======================================
+Template Name: 
+Template URL: https://code.wapborhan.com/w3codevs/directory/
+Description:
+Author: Borhan Uddin
+Author URL: www.wapborhan.com
+Version: 1.0.0
+=========================================*/
+/*==========================
+ CSS Index  
+****************************
+
+01. Variables
+
+==========================*/
+
+/* Default  */
+:root {
+  --color-primary: #ff014f;
+
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
