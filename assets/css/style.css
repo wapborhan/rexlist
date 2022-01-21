@@ -19,10 +19,18 @@ Version: 1.0.0
 /* Default  */
 :root {
   --color-primary: #ff014f;
+  --color-white: #fff;
 
 }
 
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #a1a3ca;
+}
+.navbar-light .navbar-nav .nav-link.active{
+  color: var(--color-white);
 }
